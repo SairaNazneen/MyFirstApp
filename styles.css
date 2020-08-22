@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+    background-color: #02383b;
+    color: white;
+    margin: auto -16px;
+    padding: 16px 32px;
+}
+body{
+    background: #cdd3c2;
+}
+
+h3::first-letter{
+    font-size: 200%;
+}
+.card{
+    background-color: #047882 !important;
+    color: white;
+    margin: 16px 32px;
+}
+
+  
